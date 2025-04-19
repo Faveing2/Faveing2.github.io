@@ -2,3 +2,33 @@ baseURL: https://Faveing2.github.io/
 languageCode: en-us
 title: Faveing's Personal Website
 theme: ["PaperMod"]
+menu:
+  main:
+    - identifier: blog 
+      name: Blog 
+      url: /blog/
+      weight: 10
+    - identifier: gallery 
+      name: Gallery 
+      url: /gallery/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to my website.      
+  socialIcons:
+    - name: twitter
+      url: "https://x.com/faveing2"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
