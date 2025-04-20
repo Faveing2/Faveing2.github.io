@@ -16,6 +16,10 @@ menu:
       name: Search
       url: /search/
       weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
 
 params:
   defaultTheme: dark
