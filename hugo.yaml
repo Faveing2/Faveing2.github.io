@@ -4,10 +4,6 @@ title: Faveing's Personal Website
 theme: ["PaperMod"]
 menu:
   main:
-    - identifier: blog 
-      name: Blog 
-      url: /blog/
-      weight: 10
     - identifier: gallery 
       name: Gallery 
       url: /gallery/
@@ -24,9 +20,9 @@ menu:
 params:
   defaultTheme: dark
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Welcome to my personal website\U0001F44B"
     Content: >-
-      Welcome to my website.      
+      Just a website for me to ramble on about things and showcase stuff I like
   socialIcons:
     - name: twitter
       url: "https://x.com/faveing2"
