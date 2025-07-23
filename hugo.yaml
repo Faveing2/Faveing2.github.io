@@ -1,7 +1,7 @@
 baseURL: https://Faveing2.github.io/
 languageCode: en-us
 title: Faveing's Personal Website
-theme: ["PaperMod"]
+theme: "PaperMod"
 menu:
   main:
     - identifier: gallery 
@@ -18,6 +18,9 @@ menu:
       weight: 10
 
 params:
+  assets:
+    customCSS:
+      - css/custom.css 
   defaultTheme: dark
   homeInfoParams:
     Title: "Welcome to my personal website\U0001F44B"
