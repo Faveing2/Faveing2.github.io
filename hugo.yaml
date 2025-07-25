@@ -5,7 +5,7 @@ theme: "PaperMod"
 menu:
   main:
     - identifier: mix 
-      name: Mix Arhive 
+      name: Mix archive 
       url: /Mix Archive/
       weight: 20
     - identifier: gallery 
@@ -17,7 +17,7 @@ menu:
       url: /search/
       weight: 20
     - identifier: archives
-      name: archives
+      name: Archives
       url: /archives/
       weight: 10
 
