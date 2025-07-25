@@ -4,6 +4,10 @@ title: Faveing's Personal Website
 theme: "PaperMod"
 menu:
   main:
+    - identifier: mix 
+      name: Mix Arhive 
+      url: /Mix Archive/
+      weight: 20
     - identifier: gallery 
       name: Gallery 
       url: /gallery/
