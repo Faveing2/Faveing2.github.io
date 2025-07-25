@@ -32,3 +32,9 @@ Each particle object will need to contains it's current velocity, position, mass
 | position        | vector[3] |
 | element         | elementType |
 
+### The simulation class
+
+| Class Functions | Input | Output | Notes |
+| --------------- | ----- |------ | ----- |
+| step            | dt, particles, forces | void   | Steps the simulation by one timestep |
+| getState
