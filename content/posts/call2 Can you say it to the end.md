@@ -1,6 +1,6 @@
 ---
 date: '2025-07-24T17:48:39-07:00'
-draft: true
+draft: false
 title: 'Call2 Can You Say It to the End'
 tags: [mix]
 mathJax: false
@@ -8,29 +8,23 @@ mathJax: false
 
 [video](https://www.youtube.com/watch?v=-9fyOnmeSzE&list=RD-9fyOnmeSzE&start_radio=1)
 
-Myōhontusuke! Kasen tobi jokyo! Jyā Jyā! Faibō! Waipā!
+Hai se no! Myōhontusuke! Kasen tobi jokyo! Jyā Jyā! Faibō! Waipā!
 
-UraHai UraHai Urahai Urahai Syaaaa Ikuzo
+Uh Hai Uh Hai Uh hai Uh hai Syaaaa Ikuzo
 
 Taigā! Faiyā! Saibā! Faibā! Daibā!
 
 Baibā! Jyā Jyā! 
 
-Faibō! Waipā! 
+Faibō! Waipā! Fāmā! Jāsupā! Howaipā! Kūpā! Iesukureipā!
 
-Fāmā! Jāsupā! 
-
-Howaipā! Kūpā! 
-
-Iesukureipā!
-
-Omae ga Ichiban Omae ga Ichiban ORE NO PEOCHAN
+Omae ga Ichiban Omae ga Ichiban ORE NO Poeni!
 
 Raion! Tora! Chiitā!
 
 Ratarata! Ratorātā!
 
-Omae ga Ichiban Omae ga Ichiban ORE NO PEOCHAN
+Omae ga Ichiban Omae ga Ichiban ORE NO Peoni!
 
 Danson Fizaqui
 
@@ -54,21 +48,23 @@ Ahhhh Shaa Ikuzo
 
 Tora Hi Jinzo Seni Ama Shindou Kasen
 
-Chape Jyaa Jyaa (I think?)
+Tobi! Jokyo!
 
 Mai Mai Mai Mai Nihon Mai
 
-Hakumai henmai(?)
+Hakumai genmai kinmemai!
 
-Uhhhh (get from peo)
+koshihikari koshihikari
 
-Omae ga Ichiban Omae ga Ichiban ORE NO PEOCHAN
+Peoni ni Hitomebore!
 
-Aiya Aiya Aiya Aiya 
+Omae ga Ichiban Omae ga Ichiban ORE NO Peoni
 
-Mouikai 
+Ai Ai Ai Ai 
 
-Aiya Aiya Aiya Aiya (Okay idk how to write this so just follow someone lol)
+Mouikkai 
+
+Ai Ai Ai Ai! Ai Ai Ai Ai! (Okay idk how to write this so just follow someone lol)
 
 Peochan Peochan Peochan Peochan 
 
@@ -86,9 +82,53 @@ Itsuikuno Imadesho?
 
 Ahhhh Shaa Ikuzo
 
-Chape Ape Kara Kina Rara Tusuke Wispa 
+Chape Ape Kara Kina Rara Tusuke Wisupe! Kesi Sisupa 
 
-Faibo Waipa Fama Jasupa Hawaipa Kupa Iesukureipa
+Gūchoki pā, gūchoki pā
 
-(GET MIX FROM PEO)
+Nani tsukurō, nani tsukurō
+
+Migite wa pā de, hidarite mo pā de
+
+Myōhontusuke 👏 waipā
+
+Ōkina kuri no ki no shita de
+
+Anata to wārudo kaosu
+
+Shogyō, Kogure, Shigure, Kagura
+
+Kongōsan, Shōshūsa
+
+Koku-un, Mujo, Sekai konton!
+
+Uuu Hai Uuu Hai Uuu Hai Uuu Hai
+
+Ahhhh Mada ikanai!
+
+Uuu Hai Uuu Hai Uuu Hai Uuu Hai
+
+Ahhhh Mada ikanai!
+
+Itsuikuno Imadesho?
+
+Wa wa warudo pisu
+
+Inori Hotoke Hikakuka Dotoku 
+
+Jizenkatsudo Darai rama
+
+Ikuni Tsukuro Kamakura Bakufu
+
+Nōringyō, Suisangyō
+
+Sakana no yōsu mo 👏 okashii
+
+Koshihikari, Sasanishiki,
+
+IyaIyaIyaIya, MateMateMateMate
+
+Yōsuiro, Konbain
+
+Tanbo no yōsu ga 👏 okashii
 
