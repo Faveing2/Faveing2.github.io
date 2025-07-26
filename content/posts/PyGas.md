@@ -34,7 +34,9 @@ Each particle object will need to contains it's current velocity, position, mass
 
 ### The simulation class
 
+The simulation will take in a list of particles, outside forces, bounding boxes. For every timestep it will step the particle based on the velocity and adjust the velocity according to the acceleration. It will also need to handel any colissions between particles or the bounding boxes of the simulation. 
+
 | Class Functions | Input | Output | Notes |
 | --------------- | ----- |------ | ----- |
-| step            | dt, particles, forces | void   | Steps the simulation by one timestep |
+| step            | dt, particles, forces, boundingBoxes | void   | Steps the simulation by one timestep |
 | getState
