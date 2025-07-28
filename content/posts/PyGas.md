@@ -39,4 +39,4 @@ The simulation will take in a list of particles, outside forces, bounding boxes.
 | Class Functions | Input | Output | Notes |
 | --------------- | ----- |------ | ----- |
 | step            | dt, particles, forces, boundingBoxes | void   | Steps the simulation by one timestep |
-| getState
+| getState        | recordPosition(bool)  | JsonObject | Returns current state of the simulation such as the particle objects, their velocity, positions, ke, pe |
