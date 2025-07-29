@@ -19,6 +19,8 @@ My personal Anikura/Wotagei/Chikagei/mix arhive, mainly here so I can find thing
 
 World Peace Mix - FIND
 
+[Ainunichi Kahen Mix](</posts/ainunichi-kahen-mix>)
+
 [World Chaos Mix](/posts/worldchaos)
 
 [Pan Mix](/posts/panmix/)
