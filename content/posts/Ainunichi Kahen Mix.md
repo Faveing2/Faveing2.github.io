@@ -14,6 +14,6 @@ Chape Ape Kara Kina Kara Ape Chape―!
 
 Kasen Tobi Jokyo―! 
 
-Tora Tora Tora Tora―! 
+Tora Tora Tora! 
 
 Tora―! Hi―! Jinzō―! Seni―! Ama―! Shindou―! Kasen―! Tobi―! Jokyo―!
