@@ -17,7 +17,9 @@ My personal Anikura/Wotagei/Chikagei/mix arhive, mainly here so I can find thing
 
 ### MIX
 
-World Peace Mix - FIND
+[Tanbo Sanren Mix](/posts/tanbo-sanren-mix/)
+
+[World Peace Mix](/posts/world-peace-mix/)
 
 [Ainunichi Kahen Mix](</posts/ainunichi-kahen-mix>)
 
@@ -29,6 +31,14 @@ World Peace Mix - FIND
 
 [Hayashi Osamu](/posts/madaikanai/)
 
+[Pan Mix](/posts/pan-mix/)
+
+[Rice Mix](/posts/mix/rice-mix/)
+
+[Doyo Mix](/posts/mix/doyo-mix/)
+
+[Chikipa Mix](/posts/mix/chikipa-mix/)
+
 ### Wotagei
 
 
@@ -37,3 +47,5 @@ World Peace Mix - FIND
 [Call ~Can You Say It to the End - Nippon-Wachacha](/posts/call-~can-you-say-it-to-the-end/)
 
 [Call2 Can You Say It to the End - Nippon-Wachacha](/posts/call2-can-you-say-it-to-the-end/)
+
+[Lemon Lemonade - Zerokarastart](/posts/lemon-lemonade/)
