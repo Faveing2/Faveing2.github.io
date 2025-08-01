@@ -6,7 +6,7 @@ tags: [mix]
 mathJax: false
 ---
 
-Uisupe―! Kesui―! 
+Uisupe! Kesui―! 
 
 Chape Chape Chape―! 
 
@@ -17,3 +17,5 @@ Kasen Tobi Jokyo―!
 Tora Tora Tora! 
 
 Tora―! Hi―! Jinzō―! Seni―! Ama―! Shindou―! Kasen―! Tobi―! Jokyo―!
+
+[Example](https://youtu.be/HimilLQKaEQ?si=Od3efXAh1QB7QWzU&t=139)

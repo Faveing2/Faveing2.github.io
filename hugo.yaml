@@ -5,17 +5,21 @@ theme: "PaperMod"
 menu:
   main:
     - identifier: mix 
-      name: Mix archive 
+      name: Wota archive 
       url: /Mix Archive/
       weight: 20
     - identifier: gallery 
       name: Gallery 
       url: /gallery/
       weight: 20
+    - identifier: tags 
+      name: Tags 
+      url: /tags/
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
+      weight: 30
     - identifier: archives
       name: Archives
       url: /archives/
@@ -33,6 +37,9 @@ params:
   socialIcons:
     - name: twitter
       url: "https://x.com/faveing2"
+  mainSections:
+    - dev
+    - personal
 
 outputs:
   home:

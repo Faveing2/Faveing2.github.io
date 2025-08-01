@@ -18,3 +18,5 @@ Shigure
 Kagura
 
 Kongousan Shoushuusha
+
+[Example](https://youtu.be/2LezdaecEEc?si=jChKLqPBXTiMV9Uk&t=238)

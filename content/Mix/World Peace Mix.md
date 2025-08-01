@@ -6,7 +6,7 @@ tags: [mix]
 mathJax: false
 ---
 
-Warudo Pisu!
+wa wa wa wa wa wa Warudo Pisu!
 
 Inori Hotoke Hikakuka Dotoku
 
