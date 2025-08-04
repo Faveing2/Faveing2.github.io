@@ -10,7 +10,7 @@ Noringyo Suisangyo
 
 Sakana no yosu mo *clap* okashii
 
-Koshihikari Sansanishiki
+Koshihikari Sasanishiki
 
 Iya iya iya iya Matte matte matte matte
 

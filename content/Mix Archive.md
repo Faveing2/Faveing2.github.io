@@ -48,8 +48,8 @@ My personal Anikura/Wotagei/Chikagei/mix arhive, mainly here so I can find thing
 
 ### Song Specific Stuff
 
-[Call ~Can You Say It to the End - Nippon-Wachacha](/posts/call-~can-you-say-it-to-the-end/)
+[Call ~Can You Say It to the End - Nippon-Wachacha](/mix/call-~can-you-say-it-to-the-end/)
 
-[Call2 Can You Say It to the End - Nippon-Wachacha](/posts/call2-can-you-say-it-to-the-end/)
+[Call2 Can You Say It to the End - Nippon-Wachacha](/mix/call2-can-you-say-it-to-the-end/)
 
-[Lemon Lemonade - Zerokarastart](/posts/lemon-lemonade/)
+[Lemon Lemonade - Zerokarastart](/mix/lemon-lemonade/)
