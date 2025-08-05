@@ -46,3 +46,8 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
