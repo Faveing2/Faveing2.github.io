@@ -1,6 +1,6 @@
 ---
 date: '2025-08-04'
-draft: true 
+draft: false 
 title: 'Super Idol Life Blog'
 ShowToc: true
 tags: [personal]
